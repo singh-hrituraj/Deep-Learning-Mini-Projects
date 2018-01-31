@@ -13,3 +13,6 @@ Simple Numpy implementation of Long Short Term Memory. (Without comments as of n
 ## Time Series Prediction using LSTM
 A very simple implementation to just get idea about how LSTM can be used for Time Series prediction. Original Work Link : [Blog](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/)
 
+## LSTM For Sine Wave Series
+LSTM Time Series Implementation on Sine Wave. Original Work Link : [Blog](http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Prediction)
+
